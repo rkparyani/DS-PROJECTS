@@ -1,0 +1,59 @@
+TO BUILD A BASIC PIPLELINE FOR ALL KINDS OF MACHINE LEARNING ALGORITHMS
+
+	1. Import the libraries
+	2. Declare the classes and methods
+	3. Declare the variables for be used
+	4. Declare the properties variables
+	5. Import the data
+	6. Identify what columns has outliers
+	7. Find methods of Identifying outliers - and treat them as per the methods reqquired based on conditions
+	8. Check for no more outliers to proceed
+	9. Check for NA values.
+	10.Imputations required for what features.
+	11.Check no NA values in the dataset
+	12.Perform EDA - 
+		  Pairplot for all continuous variables, Boxplot for all categorical variables, Correlation matrix, Skewness and Kurtosis test.
+		  What features require to be log transformed based on skewness or Kurtosis or Box Cox method etc
+		  Prepare distplot and probplots 
+		  Create histograms for each variables
+		  Perform statistics on desired data automatically - Hypothesis testing, CI, Estimations etc.
+	13. Feature Engineering - Though this is specific to the case that is being treated but we can generalize a few cases
+		  Feature importance graph
+		  Delete unwanted features
+		  One hot encoding
+		  Feature to be included
+		  
+	14. Perform the train test split controlled by flags 
+	15. Run different models with different functions and capture the results in a single classes
+		Check the response class and understand what stack to be picked up for model running
+		
+		Linear regression
+		Non linear Models
+		Regularization - Ridge/Lasso
+		Support Vector Regression
+		Decision tree regression
+		LDA
+		
+		Logistic regression
+		Decision Tree 
+		Random Forest
+		Bagging
+		Boosting
+		SVM with different Kernels
+		Naive Bayes
+		PCA
+		etc
+
+	16. Capture the results in a common dataframe 
+	17 Produce Graphs - and do data analysis to understand what suits what cases
+
+	
+
+    	
+
+
+
+
+
+
+  
